@@ -51,4 +51,3 @@ New York City. \n",
  "nbformat": 4,
  "nbformat_minor": 5
 }
-
