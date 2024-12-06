@@ -1,0 +1,5 @@
+format: jb-book
+root: computing-in-context
+chapters:
+  - file: project_1
+  - file: project_2
